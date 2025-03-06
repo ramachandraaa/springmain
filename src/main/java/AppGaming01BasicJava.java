@@ -1,6 +1,6 @@
 import com.ramdev.demo.supercon;
 
-public class AppGamingBasicJava {
+public class AppGaming01BasicJava {
     public static void main(String[] args) {
         //var game=new supercon();
       var game=new Mariogame();
@@ -9,3 +9,4 @@ public class AppGamingBasicJava {
     }
 
 }
+
