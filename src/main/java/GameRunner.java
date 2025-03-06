@@ -1,6 +1,9 @@
+import com.ramdev.demo.gamingconsole;
+import com.ramdev.demo.supercon;
+
 public class GameRunner {
-    Mariogame game;
-    public GameRunner(Mariogame game) {
+    gamingconsole game;
+    public GameRunner( gamingconsole game) {
         this.game=game;
     }
 

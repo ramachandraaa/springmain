@@ -1,4 +1,6 @@
-public class Mariogame {
+import com.ramdev.demo.gamingconsole;
+
+public class Mariogame implements gamingconsole {
     public void up()
     {
         System.out.println("Jump");
