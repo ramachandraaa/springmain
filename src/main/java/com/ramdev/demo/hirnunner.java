@@ -1,13 +1,16 @@
+package com.ramdev.demo;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class HelloworldConfuguration {
-    @Bean
-    public String name()
-    {
 
-       return "Hello Ram!";
+public class hirnunner {
+    @Bean
+    public int square()
+    {
+        int i = 6;
+        return i*i;
     }
 
 }
