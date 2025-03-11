@@ -1,4 +1,4 @@
-package com.ramdev.demo;
+package game02package;
 
 public class supercon implements gamingconsole {
 

@@ -1,5 +1,4 @@
-import com.ramdev.demo.gamingconsole;
-import com.ramdev.demo.supercon;
+package game02package;
 
 public class GameRunner {
     gamingconsole game;

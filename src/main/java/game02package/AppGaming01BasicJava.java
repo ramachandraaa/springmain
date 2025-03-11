@@ -1,4 +1,4 @@
-import com.ramdev.demo.supercon;
+package game02package;
 
 public class AppGaming01BasicJava {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.ramdev.demo;
+package Helloworld;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

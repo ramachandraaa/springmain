@@ -1,4 +1,4 @@
-import com.ramdev.demo.gamingconsole;
+package game02package;
 
 public class Mariogame implements gamingconsole {
     public void up()
